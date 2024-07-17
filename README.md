@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lefterisathe
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript, CSS
+- 👋 Hi, I’m @lefterisathe.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning javascript.
 
