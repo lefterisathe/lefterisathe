@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lefterisathe.
 - 👀 I’m interested in programming.
 - 🥔 This is a potato
-- Check this out! lefterismc.gr
+- 🌐 Check out my website!
+      [lefterismc.gr]
