@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @lefterisathe.
 - 👀 I'm interested in programming.
 - 🥔 This is a potato
-- <a href="https://lefterismc.gr" target="_blank" rel="noopener noreferrer">🌐 Check out my website!</a>
+- <a href="https://lefteris.tech" target="_blank" rel="noopener noreferrer">🌐 Check out my website!</a>
